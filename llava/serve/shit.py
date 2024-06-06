@@ -2,9 +2,9 @@ from llava.serve.try_inference import llava_med
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB3IhQmdb6FS48yODc64lcLmF5Us30WgY4"
-os.environ["GOOGLE_CSE_ID"] = "526a61a0320a34080"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["GOOGLE_API_KEY"] = ""
+os.environ["GOOGLE_CSE_ID"] = ""
 
 import os
 from langchain.agents import Tool
