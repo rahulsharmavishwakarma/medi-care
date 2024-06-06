@@ -1,0 +1,19 @@
+torch==2.0.0+cu117 --index-url https://download.pytorch.org/whl/cu117
+torchvision==0.15.1+cu117 --index-url https://download.pytorch.org/whl/cu117
+torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu117
+openai==0.27.8
+git+https://github.com/huggingface/transformers@cae78c46
+-e .
+einops
+ninja
+open-clip-torch
+flash-attn --no-build-isolation
+accelerate
+colab-xterm
+gradio --upgrade
+cohere
+tiktoken
+google-api-python-client
+langchain
+openai
+langchain-community --upgrade
