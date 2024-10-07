@@ -67,4 +67,4 @@ We welcome contributions from the community. To contribute:
 
 ---
 
-*This README was generated using a template. Make sure to customize it to fit your project's details and requirements.*
+
